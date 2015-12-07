@@ -1,0 +1,27 @@
+{
+  "name": "leaflet-d3-svg-overlay",
+  "version": "2.2.0",
+  "homepage": "https://github.com/teralytics/Leaflet.D3SvgOverlay#readme",
+  "authors": [
+    "Kirill Zhuravlev <kirill.zhuravlev@teralytics.ch>",
+    "Marco Vettorello <vettorello.marco@gmail.com>"
+  ],
+  "description": "Leaflet Plugin: D3 SVG Overlay",
+  "main": "L.D3SvgOverlay.js",
+  "keywords": [
+    "gis",
+    "map",
+    "leaflet",
+    "svg",
+    "d3",
+    "overlay"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
